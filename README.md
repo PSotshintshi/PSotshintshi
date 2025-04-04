@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phumeza Sotshintshi! <br/><a href="https://github.com/PSotshintshi">Frontend Web Developer</a>, <a href="https://www.linkedin.com/in/PhumezaSotshintshi/">IT Specialist</a>, <a href="https://www.linkedin.com/in/PhumezaSotshintshi/">Virtual Assistant</a></h1>
+<h1>Hi, I'm Phumeza! <br/><a href="https://github.com/PSotshintshi">Frontend Web Developer</a>, <a href="https://www.linkedin.com/in/PhumezaSotshintshi/">IT Specialist</a>, <a href="https://www.linkedin.com/in/PhumezaSotshintshi/">Virtual Assistant</a></h1>
 
 <h2>About Me:</h2>
 
@@ -17,8 +17,7 @@
     
 <h2>👨‍💻 Skills:</h2>
 
-- <b> HTML </b>
-- <b> CSS </b>
+- <b> HTML & CSS </b>
 - <b> Java </b>
 - <b> Cloud Computing</b>
 <h2>👨‍💻 Software Development Projects:</h2>

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phumeza Sotshintshi! <br/><a href="https://github.com/joshmadakor1">Front-End Web Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Specialist</a>, <a href="https://www.youtube.com/c/joshmadakor">Virtual Assistant</a></h1>
+<h1>Hi, I'm Phumeza Sotshintshi! <br/><a href="https://github.com/PSotshintshi">Frontend Web Developer</a>, <a href="https://www.linkedin.com/in/PhumezaSotshintshi/">IT Specialist</a>, <a href="https://www.linkedin.com/in/PhumezaSotshintshi/">Virtual Assistant</a></h1>
 
 <h2>About Me:</h2>
 

@@ -20,7 +20,7 @@
 - <b> HTML & CSS </b>
 - <b> Java </b>
 - <b> Cloud Computing</b>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Portfolio:</h2>
 
 - Overcrowding in Schools Pitch Presentation(https://docs.google.com/presentation/d/1L3LVAomAbqbncVAaUe2bZb9XJnb0iJHb/edit?usp=drive_link&ouid=101359847804236621533&rtpof=true&sd=true)
 - Overcrowding in Schools in the Eastern Cape Province(https://www.youtube.com/watch?v=uHy3oM7NnoU](https://drive.google.com/file/d/1Fh6tTalIT4Ai-Lwl40mzYaa1xDNki9xy/view?usp=drive_link)

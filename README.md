@@ -20,12 +20,10 @@
 - <b> HTML & CSS </b>
 - <b> Java </b>
 - <b> Cloud Computing</b>
-<h2> <br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio"> My Portfolio:</h2>
-
--<b><br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio">  Overcrowding in Schools Pitch Presentation</b>
-- Overcrowding in Schools in the Eastern Cape Province(https://www.youtube.com/watch?v=uHy3oM7NnoU](https://drive.google.com/file/d/1Fh6tTalIT4Ai-Lwl40mzYaa1xDNki9xy/view?usp=drive_link)
+<h2>  My Portfolio:</h2>
+<b><br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio">  Overcrowding in Schools Pitch Presentation</b>
+<b><br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio"> Overcrowding in Schools in the Eastern Cape Province </b>
   
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="PhumezaSotshintshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

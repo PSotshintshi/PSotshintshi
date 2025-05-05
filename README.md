@@ -34,7 +34,8 @@
 [twitter]: https://twitter.com/psotshintshi
 [youtube]: https://www.youtube.com/c/psotshintshi
 [instagram]: https://www.instagram.com/psotshintshi/
-[linkedin]: https://linkedin.com/in/psotshintshi
+[linkedin]: https://linkedin.com/in/phumezasotshintshi
+[gmail]: https://mail.google.com/mail/u/0/#inbox
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

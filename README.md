@@ -28,7 +28,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="PhumezaSotshintshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PhumezaSotshintshi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][sotshintship@gmail]
+[<img align="left" alt="PhumezaSotshintshi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][sotshintship@gmail.com]
 
 
 [twitter]: https://twitter.com/psotshintshi

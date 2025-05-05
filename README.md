@@ -2,7 +2,7 @@
 
 <h2>About Me:</h2>
 
-- <b>I am an aspiring Frontend Web Developer passionate about creating intuitive, user-friendly interfaces and continuously seek to improve my skills by staying updated with the latest web development trends. My goal is to build responsive, impactful digital experiences that enhance both functionality and user satisfaction.With a strong foundation in IT operations and team support, I have successfully managed the integration of diverse systems and software, while leading projects like server room relocations and MS 365 migrations. My passion lies in using technology to solve complex problems, optimize system efficiency, and drive business performance.
+- <b>I am an aspiring Frontend Web Developer currently enrolled in the ALX FrontEnd Web Development Program, passionate about creating intuitive, user-friendly interfaces and continuously seek to improve my skills by staying updated with the latest web development trends. My goal is to build responsive, impactful digital experiences that enhance both functionality and user satisfaction.With a strong foundation in IT operations and team support, I have successfully managed the integration of diverse systems and software, while leading projects like server room relocations and MS 365 migrations. My passion lies in using technology to solve complex problems, optimize system efficiency, and drive business performance.
 </b>   
 <h2>👨‍💻 Certifications:</h2>
 
@@ -10,7 +10,7 @@
 - <b> Microsoft Certified Professional</b><i>
 - <b> Microsoft Certified Software Developer</b>
 - <b> Oracle Certified Associate, Java SE 8 Programmer</b>
-- <b> Microsft 365 Fundamentals/b>
+- <b> Microsft 365 Fundamentals</b>
 - <b> Microsoft Azure Fundamentals</b>
 - <b> Microsoft Azure Administrator Associate</b>
 - <b> Virtual Assistant</b>
@@ -28,6 +28,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="PhumezaSotshintshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PhumezaSotshintshi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 
 [twitter]: https://twitter.com/joshmadakor

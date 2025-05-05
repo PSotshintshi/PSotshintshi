@@ -2,7 +2,7 @@
 
 <h2>About Me:</h2>
 
-- <b>I am an aspiring Frontend Web Developer currently enrolled in the ALX FrontEnd Web Development Program, passionate about creating intuitive, user-friendly interfaces and continuously seek to improve my skills by staying updated with the latest web development trends. My goal is to build responsive, impactful digital experiences that enhance both functionality and user satisfaction.With a strong foundation in IT operations and team support, I have successfully managed the integration of diverse systems and software, while leading projects like server room relocations and MS 365 migrations. My passion lies in using technology to solve complex problems, optimize system efficiency, and drive business performance.
+<b>I am an aspiring Frontend Web Developer currently enrolled in the ALX FrontEnd Web Development Program, passionate about creating intuitive, user-friendly interfaces and continuously seek to improve my skills by staying updated with the latest web development trends. My goal is to build responsive, impactful digital experiences that enhance both functionality and user satisfaction.With a strong foundation in IT operations and team support, I have successfully managed the integration of diverse systems and software, while leading projects like server room relocations and MS 365 migrations. My passion lies in using technology to solve complex problems, optimize system efficiency, and drive business performance.
 </b>   
 <h2>👨‍💻 Certifications:</h2>
 

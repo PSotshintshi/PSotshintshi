@@ -28,14 +28,14 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="PhumezaSotshintshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PhumezaSotshintshi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />] [sotshintship@gmail.com]
+[<img align="left" alt="PhumezaSotshintshi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 
 
 [twitter]: https://twitter.com/psotshintshi
 [youtube]: https://www.youtube.com/c/psotshintshi
 [instagram]: https://www.instagram.com/psotshintshi/
 [linkedin]: https://linkedin.com/in/phumezasotshintshi
-[gmail]: https://mail.google.com/mail/u/0/#inbox
+[gmail]: https://mail.google.com/mail/u/sotshintship@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

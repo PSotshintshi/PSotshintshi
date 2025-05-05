@@ -21,9 +21,8 @@
 - <b> Java </b>
 - <b> Cloud Computing</b>
 <h2>  My Portfolio:</h2>
-<b><br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio">  Overcrowding in Schools Pitch Presentation</b>
-<b><br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio"> Overcrowding in Schools in the Eastern Cape Province Pitch </b>
-<b><br/><a href="https://sites.google.com/view/phumeza-sotshintshi/my-portfolio"> Agricultural Challenges and Opportunities in Rural Communities </b>
+<b>Looking forward to sharing some exciting upcoming projects with you soon</b>
+
   
 <h2> 🤳 Connect with me:</h2>
 

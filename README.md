@@ -29,7 +29,7 @@
 
 [<img align="left" alt="PhumezaSotshintshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<h2>👨‍💻 You can also contact me on: https://mail.google.com/sotshintship@gmail.com</h2>
+<h2>👨‍💻 You can also contact me on:sotshintship@gmail.com</h2>
 
 
 
